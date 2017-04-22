@@ -1,0 +1,38 @@
+{
+  "name": "express-form-handler-strategy",
+  "version": "0.1.0",
+  "description": "An abstract class implementing expres-form-handler's strategy API",
+  "main": "./lib",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laudeon/express-form-handler-startegy.git"
+  },
+  "keywords": [
+    "express-form-handler",
+    "express",
+    "expressjs",
+    "form",
+    "form",
+    "handler",
+    "strategy"
+  ],
+  "author": "laudeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laudeon/express-form-handler-startegy/issues"
+  },
+  "homepage": "https://github.com/laudeon/express-form-handler-startegy#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "standard": "^10.0.2"
+  },
+  "standard": {
+    "ignore": [
+      "test"
+    ]
+  }
+}
